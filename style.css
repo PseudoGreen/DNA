@@ -35,15 +35,15 @@
     will-change: opacity;
   }
   .main .webdev {
-    color: #ffd9e2;
-    text-shadow: 0 0 0 transparent, 0 0 10px #ff003c, 0 0 20px rgba(255, 0, 60, 0.5), 0 0 40px #ff003c, 0 0 100px #ff003c, 0 0 200px #ff003c, 0 0 300px #ff003c, 0 0 500px #ff003c, 0 0 1000px #ff003c;
+    color: #83ffa6;
+    text-shadow: 0 0 0 transparent, 0 0 10px #b0f8c4, 0 0 20px rgba(0, 255, 21, 0.5), 0 0 40px rgba(0, 255, 21, 0.5), 0 0 100px rgba(0, 255, 21, 0.5), 0 0 200px rgba(0, 255, 21, 0.5), 0 0 300px rgba(0, 255, 21, 0.5), 0 0 500px rgba(0, 255, 21, 0.5), 0 0 1000px rgba(0, 255, 21, 0.5);
     -webkit-animation: blink 4s infinite alternate;
             animation: blink 4s infinite alternate;
   }
   .main .socod {
     font-size: 11vw;
-    color: #d4eaff;
-    text-shadow: 0 0 0 transparent, 0 0 10px #2695ff, 0 0 20px rgba(38, 149, 255, 0.5), 0 0 40px #2695ff, 0 0 100px #2695ff, 0 0 200px #2695ff, 0 0 300px #2695ff, 0 0 500px #2695ff;
+    color: #ffffff;
+    text-shadow: 0 0 0 transparent, 0 0 10px #ffffff, 0 0 20px rgba(173, 173, 173, 0.5), 0 0 40px #bebebe, 0 0 100px #bebebe, 0 0 200px #bebebe, 0 0 300px #bebebe, 0 0 500px #bebebe;
     -webkit-animation: buzz 0.01s infinite alternate;
             animation: buzz 0.01s infinite alternate;
   }
